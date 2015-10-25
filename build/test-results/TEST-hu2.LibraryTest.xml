@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hu2.LibraryTest" tests="40" skipped="0" failures="0" errors="0" timestamp="2015-09-30T00:26:50" hostname="hu2" time="2.267">
+  <properties/>
+  <testcase name="test001" classname="hu2.LibraryTest" time="0.047"/>
+  <testcase name="test002" classname="hu2.LibraryTest" time="0.016"/>
+  <testcase name="test003" classname="hu2.LibraryTest" time="0.021"/>
+  <testcase name="test004" classname="hu2.LibraryTest" time="0.0"/>
+  <testcase name="test005" classname="hu2.LibraryTest" time="0.017"/>
+  <testcase name="test006" classname="hu2.LibraryTest" time="0.148"/>
+  <testcase name="test007" classname="hu2.LibraryTest" time="0.034"/>
+  <testcase name="test008" classname="hu2.LibraryTest" time="0.004"/>
+  <testcase name="test009" classname="hu2.LibraryTest" time="0.0"/>
+  <testcase name="test010" classname="hu2.LibraryTest" time="0.0"/>
+  <testcase name="test011" classname="hu2.LibraryTest" time="0.003"/>
+  <testcase name="test012" classname="hu2.LibraryTest" time="0.02"/>
+  <testcase name="test013" classname="hu2.LibraryTest" time="0.034"/>
+  <testcase name="test014" classname="hu2.LibraryTest" time="0.004"/>
+  <testcase name="test015" classname="hu2.LibraryTest" time="0.001"/>
+  <testcase name="test016" classname="hu2.LibraryTest" time="0.293"/>
+  <testcase name="test017" classname="hu2.LibraryTest" time="0.017"/>
+  <testcase name="test018" classname="hu2.LibraryTest" time="0.01"/>
+  <testcase name="test019" classname="hu2.LibraryTest" time="0.003"/>
+  <testcase name="test020" classname="hu2.LibraryTest" time="0.052"/>
+  <testcase name="test021" classname="hu2.LibraryTest" time="0.025"/>
+  <testcase name="test022" classname="hu2.LibraryTest" time="0.024"/>
+  <testcase name="test023" classname="hu2.LibraryTest" time="0.008"/>
+  <testcase name="test024" classname="hu2.LibraryTest" time="0.017"/>
+  <testcase name="test025" classname="hu2.LibraryTest" time="0.008"/>
+  <testcase name="test026" classname="hu2.LibraryTest" time="0.009"/>
+  <testcase name="test027" classname="hu2.LibraryTest" time="0.054"/>
+  <testcase name="test028" classname="hu2.LibraryTest" time="0.019"/>
+  <testcase name="test029" classname="hu2.LibraryTest" time="0.015"/>
+  <testcase name="test030" classname="hu2.LibraryTest" time="0.053"/>
+  <testcase name="test031" classname="hu2.LibraryTest" time="0.02"/>
+  <testcase name="test032" classname="hu2.LibraryTest" time="0.01"/>
+  <testcase name="test033" classname="hu2.LibraryTest" time="0.011"/>
+  <testcase name="test034" classname="hu2.LibraryTest" time="0.012"/>
+  <testcase name="test035" classname="hu2.LibraryTest" time="0.01"/>
+  <testcase name="test036" classname="hu2.LibraryTest" time="0.017"/>
+  <testcase name="test037" classname="hu2.LibraryTest" time="0.013"/>
+  <testcase name="test038" classname="hu2.LibraryTest" time="0.021"/>
+  <testcase name="test039" classname="hu2.LibraryTest" time="0.05"/>
+  <testcase name="test040" classname="hu2.LibraryTest" time="0.062"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2015-06-21T01:01:50" hostname="hu2" time="0.618">
+  <properties/>
+  <testcase name="testGetTotalOfDiscountedPrices" classname="LibraryTest" time="0.335"/>
+  <testcase name="testListSelectFiles" classname="LibraryTest" time="0.028"/>
+  <testcase name="testTotalAssetValues" classname="LibraryTest" time="0.009"/>
+  <testcase name="testString2CharList" classname="LibraryTest" time="0.046"/>
+  <testcase name="testPickLongestName" classname="LibraryTest" time="0.001"/>
+  <testcase name="testOldestPersonOfEachLetter" classname="LibraryTest" time="0.038"/>
+  <testcase name="testGetUpperCaseFriendNames" classname="LibraryTest" time="0.001"/>
+  <testcase name="testPickName" classname="LibraryTest" time="0.024"/>
+  <testcase name="testlistFilesContainedDirAndChildDir" classname="LibraryTest" time="0.004"/>
+  <testcase name="testGroupPersonByAge" classname="LibraryTest" time="0.022"/>
+  <testcase name="testSortPersonByAgeThenName" classname="LibraryTest" time="0.038"/>
+  <testcase name="testGroupPersonNameByAge" classname="LibraryTest" time="0.005"/>
+  <testcase name="testCountFriendsStartB" classname="LibraryTest" time="0.035"/>
+  <testcase name="testCountFriendsStartN" classname="LibraryTest" time="0.0"/>
+  <testcase name="testGetNamesAsCSV" classname="LibraryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
